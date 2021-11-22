@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>命令 on 😘HOME</title>
-    <link>https://wang-yyi.github.io/blog/tags/%E5%91%BD%E4%BB%A4/</link>
+    <link>https://wang-yyi.github.io/tags/%E5%91%BD%E4%BB%A4/</link>
     <description>Recent content in 命令 on 😘HOME</description>
     <image>
-      <url>https://wang-yyi.github.io/blog/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>https://wang-yyi.github.io/blog/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <url>https://wang-yyi.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://wang-yyi.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Mon, 22 Nov 2021 19:30:56 +0800</lastBuildDate><atom:link href="https://wang-yyi.github.io/blog/tags/%E5%91%BD%E4%BB%A4/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 22 Nov 2021 19:30:56 +0800</lastBuildDate><atom:link href="https://wang-yyi.github.io/tags/%E5%91%BD%E4%BB%A4/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>快捷命令</title>
-      <link>https://wang-yyi.github.io/blog/posts/%E5%BF%AB%E6%8D%B7%E5%91%BD%E4%BB%A4/</link>
+      <link>https://wang-yyi.github.io/posts/%E5%BF%AB%E6%8D%B7%E5%91%BD%E4%BB%A4/</link>
       <pubDate>Mon, 22 Nov 2021 19:30:56 +0800</pubDate>
       
-      <guid>https://wang-yyi.github.io/blog/posts/%E5%BF%AB%E6%8D%B7%E5%91%BD%E4%BB%A4/</guid>
+      <guid>https://wang-yyi.github.io/posts/%E5%BF%AB%E6%8D%B7%E5%91%BD%E4%BB%A4/</guid>
       <description>Desc Text.</description>
     </item>
     
