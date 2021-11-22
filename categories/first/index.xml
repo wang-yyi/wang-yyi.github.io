@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>first on 😘HOME</title>
-    <link>https://adityatelange.github.io/categories/first/</link>
+    <link>https://adityatelange.github.io/blog/categories/first/</link>
     <description>Recent content in first on 😘HOME</description>
     <image>
-      <url>https://adityatelange.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>https://adityatelange.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <url>https://adityatelange.github.io/blog/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://adityatelange.github.io/blog/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Mon, 22 Nov 2021 19:43:25 +0800</lastBuildDate><atom:link href="https://adityatelange.github.io/categories/first/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 22 Nov 2021 19:43:25 +0800</lastBuildDate><atom:link href="https://adityatelange.github.io/blog/categories/first/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>测试文件</title>
-      <link>https://adityatelange.github.io/posts/%E6%B5%8B%E8%AF%95%E6%96%87%E4%BB%B6/</link>
+      <link>https://adityatelange.github.io/blog/posts/%E6%B5%8B%E8%AF%95%E6%96%87%E4%BB%B6/</link>
       <pubDate>Mon, 22 Nov 2021 19:43:25 +0800</pubDate>
       
-      <guid>https://adityatelange.github.io/posts/%E6%B5%8B%E8%AF%95%E6%96%87%E4%BB%B6/</guid>
+      <guid>https://adityatelange.github.io/blog/posts/%E6%B5%8B%E8%AF%95%E6%96%87%E4%BB%B6/</guid>
       <description>Desc Text.</description>
     </item>
     
