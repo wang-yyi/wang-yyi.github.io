@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>first on 🏠HOME</title>
+    <link>https://yanyiup.com/categories/first/</link>
+    <description>Recent content in first on 🏠HOME</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Fri, 18 Nov 2022 15:31:05 +0800</lastBuildDate><atom:link href="https://yanyiup.com/categories/first/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>测试文件</title>
+      <link>https://yanyiup.com/posts/life/%E6%B5%8B%E8%AF%95%E6%96%87%E4%BB%B6/</link>
+      <pubDate>Fri, 18 Nov 2022 15:31:05 +0800</pubDate>
+      
+      <guid>https://yanyiup.com/posts/life/%E6%B5%8B%E8%AF%95%E6%96%87%E4%BB%B6/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>日常使用</title>
+      <link>https://yanyiup.com/posts/tech/%E6%97%A5%E5%B8%B8%E4%BD%BF%E7%94%A8/</link>
+      <pubDate>Fri, 18 Nov 2022 09:39:16 +0800</pubDate>
+      
+      <guid>https://yanyiup.com/posts/tech/%E6%97%A5%E5%B8%B8%E4%BD%BF%E7%94%A8/</guid>
+      <description>便捷文件 项目常用方法 Git提交规范 git commit --author=&amp;#34;wangyanyi &amp;lt;wangyyi@133.cn&amp;gt;&amp;#34; -am&amp;#34;type[feature];status[end];content:部署脚本优化&amp;</description>
+    </item>
+    
+  </channel>
+</rss>
