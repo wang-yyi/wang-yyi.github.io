@@ -12,7 +12,7 @@
       <pubDate>Sat, 03 Dec 2022 15:30:02 +0800</pubDate>
       
       <guid>https://yanyiup.com/posts/tech/go%E8%AF%AD%E8%A8%80%E8%AE%BE%E8%AE%A1%E5%92%8C%E5%BA%94%E7%94%A8%E6%A8%A1%E5%BC%8F/</guid>
-      <description>Go语言设计和应用模式 创作模式 &amp;lt; 建造者模式 &amp;gt; 建造者模式将复杂对象的构造与其表示分离，使得相同的构造过程可以创建不同的表示。 在 Go 中，通常使用配</description>
+      <description>Go语言设计和应用模式 创作模式 建造者模式 建造者模式将复杂对象的构造与其表示分离，使得相同的构造过程可以创建不同的表示。 在 Go 中，通常使用配置结</description>
     </item>
     
   </channel>
