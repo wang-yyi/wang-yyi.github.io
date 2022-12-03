@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>🏠HOME</title>
-    <link>https://yanyiup.com/</link>
-    <description>Recent content on 🏠HOME</description>
+    <title>Go语言 on 🏠HOME</title>
+    <link>https://yanyiup.com/categories/go%E8%AF%AD%E8%A8%80/</link>
+    <description>Recent content in Go语言 on 🏠HOME</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sat, 03 Dec 2022 15:30:02 +0800</lastBuildDate><atom:link href="https://yanyiup.com/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 03 Dec 2022 15:30:02 +0800</lastBuildDate><atom:link href="https://yanyiup.com/categories/go%E8%AF%AD%E8%A8%80/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Go语言设计和应用模式</title>
       <link>https://yanyiup.com/posts/tech/go%E8%AF%AD%E8%A8%80%E8%AE%BE%E8%AE%A1%E5%92%8C%E5%BA%94%E7%94%A8%E6%A8%A1%E5%BC%8F/</link>
@@ -14,17 +14,6 @@
       <guid>https://yanyiup.com/posts/tech/go%E8%AF%AD%E8%A8%80%E8%AE%BE%E8%AE%A1%E5%92%8C%E5%BA%94%E7%94%A8%E6%A8%A1%E5%BC%8F/</guid>
       <description>Go语言设计和应用模式 创作模式 &amp;lt; 建造者模式 &amp;gt; 建造者模式将复杂对象的构造与其表示分离，使得相同的构造过程可以创建不同的表示。 在 Go 中，通常使用配</description>
     </item>
-    
-    
-    <item>
-      <title>个人信息</title>
-      <link>https://yanyiup.com/about/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://yanyiup.com/about/</guid>
-      <description></description>
-    </item>
-    
     
   </channel>
 </rss>
