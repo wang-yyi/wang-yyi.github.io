@@ -5,7 +5,16 @@
     <link>https://yanyiup.com/</link>
     <description>Recent content on 🏠HOME</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sat, 03 Dec 2022 15:30:02 +0800</lastBuildDate><atom:link href="https://yanyiup.com/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 05 Dec 2022 16:12:17 +0800</lastBuildDate><atom:link href="https://yanyiup.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>使用Docker构建Redis集群</title>
+      <link>https://yanyiup.com/posts/tech/%E4%BD%BF%E7%94%A8docker%E6%9E%84%E5%BB%BAredis%E9%9B%86%E7%BE%A4/</link>
+      <pubDate>Mon, 05 Dec 2022 16:12:17 +0800</pubDate>
+      
+      <guid>https://yanyiup.com/posts/tech/%E4%BD%BF%E7%94%A8docker%E6%9E%84%E5%BB%BAredis%E9%9B%86%E7%BE%A4/</guid>
+      <description>1、创建Redis集群配置文件模版。cluster-redis.conf # redis端口 port ${PORT} # ip bind 0.0.0.0 # 关闭本地访问保护模式 protected-mode no # 设置的密码 requirepass</description>
+    </item>
+    
     <item>
       <title>Go语言设计和应用模式</title>
       <link>https://yanyiup.com/posts/tech/go%E8%AF%AD%E8%A8%80%E8%AE%BE%E8%AE%A1%E5%92%8C%E5%BA%94%E7%94%A8%E6%A8%A1%E5%BC%8F/</link>

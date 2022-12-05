@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>first on 🏠HOME</title>
+    <link>https://yanyiup.com/categories/first/</link>
+    <description>Recent content in first on 🏠HOME</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Mon, 05 Dec 2022 16:12:17 +0800</lastBuildDate><atom:link href="https://yanyiup.com/categories/first/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>使用Docker构建Redis集群</title>
+      <link>https://yanyiup.com/posts/tech/%E4%BD%BF%E7%94%A8docker%E6%9E%84%E5%BB%BAredis%E9%9B%86%E7%BE%A4/</link>
+      <pubDate>Mon, 05 Dec 2022 16:12:17 +0800</pubDate>
+      
+      <guid>https://yanyiup.com/posts/tech/%E4%BD%BF%E7%94%A8docker%E6%9E%84%E5%BB%BAredis%E9%9B%86%E7%BE%A4/</guid>
+      <description>1、创建Redis集群配置文件模版。cluster-redis.conf # redis端口 port ${PORT} # ip bind 0.0.0.0 # 关闭本地访问保护模式 protected-mode no # 设置的密码 requirepass</description>
+    </item>
+    
+  </channel>
+</rss>
